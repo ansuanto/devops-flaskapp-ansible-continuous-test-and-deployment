@@ -9,7 +9,7 @@
       - git
       - pip
       - docker
-    project_repo_url: "https://github.com/ansuanto/devops-flask.git"
+    project_repo_url: "https://github.com/ansuanto/devops-flaskapp-ansible-continuous-test-and-deployment.git"
     clone_dir: "/var/flask_app/"
     image_name: "ansujoe/oncompute"
         
